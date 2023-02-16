@@ -1,0 +1,6 @@
+# .flake8
+[flake8]
+docstring-convention = google
+
+exclude = 
+    venv

@@ -1,0 +1,5 @@
+tqdm
+fastapi
+pydantic
+uvicorn
+redis[hiredis]
